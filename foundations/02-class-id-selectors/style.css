@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgba(255, 89, 158, 0.973);
+}
+
+.odd.three {
+    font-size: 24px;
+}
+
+#n2 {
+    color:rgb(45, 45, 185);
+    font-size: 36px;
+}
+
+#n4 {
+    background-color: rgb(70, 214, 70);
+    font-size: 24px;
+    font-weight: bold;
+}
